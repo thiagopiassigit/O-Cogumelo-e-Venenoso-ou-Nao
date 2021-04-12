@@ -16,4 +16,4 @@ Para rodar execute o arquivo src/programa.py
 <img src="./imagens/nn.svg">
 
 ## Dados
-Você pode querer visualizar os dados clicando <a href="https://github.com/thiagopiassigit/Laranja-ou-Toranja/blob/main/src/dados.csv">aqui</a>
+Você pode querer visualizar os dados clicando <a href="https://github.com/thiagopiassigit/O-Cogumelo-e-Venenoso-ou-Nao/blob/main/src/dados.csv">aqui</a>
