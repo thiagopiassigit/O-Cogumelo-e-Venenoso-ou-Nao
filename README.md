@@ -1,7 +1,7 @@
 # O Cogumelo é Venenoso ou Não
  
 ## Descrição
-Esta é uma rede neural artificial capaz de dizer com 100% de certeza se um fruta é um cogumelo é venenoso com base em suas características...
+Esta é uma rede neural artificial capaz de dizer com 100% de certeza se um cogumelo é venenoso com base em suas características...
 
 ## Instruções
 Para instalar basta clonar esse repositório e dentro da pasta executar:
